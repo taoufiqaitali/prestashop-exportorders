@@ -1,0 +1,31 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{exportorders28a}prestashop>exportorders28a_5febbf09763ddabd65710f75c6567d26'] = 'exportateur de commande';
+$_MODULE['<{exportorders28a}prestashop>exportorders28a_48bb375664f2ec69080c50c2c7867642'] = 'exportation de commandes pour l\'utilisation dans des site web externe';
+$_MODULE['<{exportorders28a}prestashop>exportorders28a_a29653ef8e64a7536682261c24839bac'] = 'export commande par id';
+$_MODULE['<{exportorders28a}prestashop>exportorders28a_df12ce88bf638343a7be583ec568e165'] = 'id de commande';
+$_MODULE['<{exportorders28a}prestashop>exportorders28a_4fe6cc8c3155399400788201ae94d114'] = 'export par id';
+$_MODULE['<{exportorders28a}prestashop>exportorders28a_137cc83473d0ed894df5f317ec508e18'] = 'export commandes par état';
+$_MODULE['<{exportorders28a}prestashop>exportorders28a_53a397c3d479065cd4e07e719378557b'] = 'sélectionner état a exporter';
+$_MODULE['<{exportorders28a}prestashop>exportorders28a_091ddb1f777690ed14795f5337244328'] = 'export par état';
+$_MODULE['<{exportorders28a}prestashop>exportorders28a_632e3eedaa3e255035749c2e1107f89b'] = 'export commandes par date';
+$_MODULE['<{exportorders28a}prestashop>exportorders28a_161f7eaf98550cc6528dd913092fe161'] = 'sélectionner la date';
+$_MODULE['<{exportorders28a}prestashop>exportorders28a_5da618e8e4b89c66fe86e32cdafde142'] = 'de';
+$_MODULE['<{exportorders28a}prestashop>exportorders28a_e12167aa0a7698e6ebc92b4ce3909b53'] = 'à';
+$_MODULE['<{exportorders28a}prestashop>exportorders28a_da0228bc92ff138e95b3f82788f5ba31'] = 'export par date';
+$_MODULE['<{exportorders28a}prestashop>exportorders28a_ad50701065860abf17da33a449b8d3f9'] = 'La commande a été exportée. Vous pouvez télécharger le fichier ici';
+$_MODULE['<{exportorders28a}prestashop>exportorders28a_e29de7aff2ca1e8e9595f5a47a533cfc'] = 'Les commandes ont été exportées. Vous pouvez télécharger le fichier ici';
+$_MODULE['<{exportorders28a}prestashop>configure_fd788acc8bee250f409e62c40eedb043'] = 'exportateur de commande';
+$_MODULE['<{exportorders28a}prestashop>configure_64fb07c178ebb459490e5c28eb8d002a'] = 'exportation de commandes pour l\'utilisation dans des site web externe';
+$_MODULE['<{exportorders28a}prestashop>configure_a6ce9c3b19b19ef286b104ea2361c867'] = 'Merci d\'avoir acheté ce module, j\'espère que vous l\'aimerez et que vous pourrez augmenter vos ventes';
+$_MODULE['<{exportorders28a}prestashop>configure_a7f036c189d6e5979ad45a8cce0a0156'] = 'pour toute aide ou support n\'hésitez pas à me contacter!';
+$_MODULE['<{exportorders28a}prestashop>configure_1e884e3078d9978e216a027ecd57fb34'] = 'E-mail';
+$_MODULE['<{exportorders28a}prestashop>configure_635973b333394a0ccbd79639ac9b7fd4'] = 'Phone/WhatsApp/telegram';
+$_MODULE['<{exportorders28a}prestashop>configure_b73c2d22763d1ce2143a3755c1d0ad3a'] = 'twitter';
+$_MODULE['<{exportorders28a}prestashop>configure_d85544fce402c7a2a96a48078edaf203'] = 'Facebook';
+$_MODULE['<{exportorders28a}prestashop>configure_15bbb9d0bbf25e8d2978de1168c749dc'] = 'Website';
+$_MODULE['<{exportorders28a}prestashop>configure_95520c152ca75f3c953437886cd15fdc'] = 'Created with love by';
+$_MODULE['<{exportorders28a}prestashop>configure_69b736f6d0f36b4edd9eb647bc6d2e6c'] = 'Exporter Toutes les commandes';
+$_MODULE['<{exportorders28a}prestashop>configure_3ce98c0ace5df091f5475e1172c53bae'] = 'Exporter les commandes acceptées';
